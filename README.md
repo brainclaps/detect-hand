@@ -25,4 +25,4 @@ Github [@smiteshdas](https://github.com/smiteshdas)
 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/brainclaps/detect-hand/blob/master/LICENSE)
